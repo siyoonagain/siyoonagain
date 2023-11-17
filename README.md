@@ -29,6 +29,6 @@
 
 <br/>
   <div>
-    <p><strong><a href="#">🤟포트폴리오 보러가기</a></strong></p>
+    <p><strong><a href="siyoonagain.github.io/portfolio/">🤟포트폴리오 보러가기</a></strong></p>
   </div>
 </div>
